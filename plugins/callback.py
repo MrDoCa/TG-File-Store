@@ -18,10 +18,23 @@ async def help_cb(c, m):
     # help text
     help_text = """**You need Help?? 🧐**
 
-★ Just send me the files i will store file and give you share able link
+👉 Send your movies I will save it
+
+__Please try to send good quality movies 😇__
+
+👉 Check it if movie is stored or not by clicking check button
+
+👉 Become a member @IninityCLK and help others by adding new movies 
 
 
-**You can use me in channel too 😉**
+**⛔️ 𝐍𝐨𝐭𝐞 :**
+
+__📌 Adult content is direct Ban 😡 from bot and from group__
+
+__📌 This bot doesn't save any files in its data base. It stores the file in a hidden/private channel and just forward it to the users who gives the token to it.__
+
+
+**You can also use me in your channel too 😉**
 
 ★ Make me admin in your channel with edit permission. Thats enough now continue uploading files in channel i will edit all posts and add share able link url buttons
 
@@ -60,21 +73,20 @@ async def about_cb(c, m):
     bot = await c.get_me()
 
     # about text
-    about_text = f"""--**My Details:**--
+    about_text = f"""--**📕 My Details:**--
 
-🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='md')}
+○ ᴍʏ ɴᴀᴍᴇ : [ɪɴғɪɴɪᴛʏ sᴛᴏʀᴇ ʙᴏᴛ](https://t.me/STOREinf_bot)
     
-📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: [Python 3](https://www.python.org/)
+○ ʟᴀɴɢᴜᴀɢᴇ : ᴘʏᴛʜᴏɴ
 
-🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: [Pyrogram](https://github.com/pyrogram/pyrogram)
+○ ғʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏʀᴏɢʀᴀᴍ
 
-👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
+○ ᴠᴇʀsɪᴏɴ : 1.0.0
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [INFINITY BOTS](https://t.me/BOTS_Infinity)
+○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-👥 𝐆𝐫𝐨𝐮𝐩: [MOVIES AND SERIES](https://t.me/infinityCLK)
+○ ᴄʀᴇᴀᴛᴏʀ : [ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/BOTS_Infinity)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/MrDoCa/TG-File-Store)
 """
 
     # creating buttons
