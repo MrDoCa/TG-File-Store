@@ -24,7 +24,7 @@ __Please try to send good quality movies 😇__
 
 👉 Check it if movie is stored or not by clicking check button
 
-👉 Become a member @IninityCLK and help others by adding new movies 
+👉 Become a member of @InfinityCLK and help others by adding new movies 
 
 
 **⛔️ 𝐍𝐨𝐭𝐞 :**
