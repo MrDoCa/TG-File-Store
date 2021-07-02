@@ -70,7 +70,7 @@ async def about_cb(c, m):
 
 👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [INFINITY BOTS](https://t.me/BOTSinf_bot)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [INFINITY BOTS](https://t.me/BOTS_Infinity)
 
 👥 𝐆𝐫𝐨𝐮𝐩: [MOVIES AND SERIES](https://t.me/infinityCLK)
 
