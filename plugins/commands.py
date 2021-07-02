@@ -99,13 +99,7 @@ async def start(c, m, cb=False):
                 caption += f"__💬 DC ID:__ {channel.dc_id}\n\n" if channel.dc_id else "" 
                 caption += f"__👁 Members Count:__ {channel.members_count}\n\n" if channel.members_count else ""
             else:
-                user = await c.get_users(int(chat_id)) 
-                caption += "**--📺 MOVIES AND SERIES 📺--**\n\n"
-                caption += f"__♻️ MOVIES ♻️: __ {https://t.me/moviesinf_bot}\n\n"
-                caption += f"__♻️ TV SERIES ♻️:__ {https://t.me/seriesinf_bot}\n\n"
-                caption += f"__🔰 REQUEST HERE 🔰:__ {https://t.me/infinityCLK}\n\n"
-                
-                caption += "**--Uploader Details:--**\n\n" 
+                user = await c.get_users(int(chat_id))                              caption += "**--Uploader Details:--**\n\n" 
                 caption += f"__🦚 First Name:__ `{user.first_name}`\n\n" 
                 caption += f"__👁 User Name:__ @{user.username}\n\n" if user.username else "" 
                 caption += f"__👤 User Id:__ `{user.id}`\n\n" 
