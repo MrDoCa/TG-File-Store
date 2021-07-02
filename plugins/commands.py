@@ -33,7 +33,7 @@ async def start(c, m, cb=False):
 `You Can Add Your Movie Files To Our Group Using This Bot . You can also store your Telegram Media for permanent Link! `
 
 
-*🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:-** [ᴅᴏᴄ ᴅx](https://t.me/Dx_Doc)
+*🔅 ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ:-** [ᴅᴏᴄ ᴅx](@Dx_Doc)
 """
 
     # Buttons
