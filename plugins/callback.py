@@ -85,7 +85,9 @@ async def about_cb(c, m):
 
 ○ sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ : 🔐
 
-○ ᴄʀᴇᴀᴛᴏʀ : [ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/BOTS_Infinity)
+○ ᴄʜᴀɴɴᴇʟ : [ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/BOTS_Infinity)
+
+○ ᴄʀᴇᴀᴛᴏʀ : [ᴅᴏᴄ ᴅx](https://t.me/dx_doc)
 
 """
 
