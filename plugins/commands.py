@@ -105,7 +105,7 @@ async def start(c, m, cb=False):
                 caption += f"__👤 User Id:__ `{user.id}`\n\n" 
                 caption += f"__💬 DC ID:__ {user.dc_id}\n\n" if user.dc_id else ""
 
-                caption += f"**[©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)"
+                caption += f"**[©️ ɪɴғɪɴɪᴛʏ ʙᴏᴛs](https://t.me/bots_infinity)**"
 
 
         await send_msg.delete()
